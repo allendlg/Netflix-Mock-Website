@@ -7,7 +7,7 @@ function App() {
   return (
     <div className="App">
 
-     
+    <Banner />
      <Row 
      title="NETFLIX ORIGINALS" 
      fetchURL={requests.fetchNetflixOriginals} 
