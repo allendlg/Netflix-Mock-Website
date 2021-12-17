@@ -27,4 +27,9 @@
 }
 .row{
     margin-left: 20px;
+    background-color: #111;
+    color: white;
+}
+.rowText{
+    background-color: white;
 }
